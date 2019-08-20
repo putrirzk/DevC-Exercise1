@@ -1,0 +1,52 @@
+.bg {
+    background-image: url(backgr.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    border-radius: 50%;
+    position: 
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@font-face {
+    font-family: "Hello";
+    src: url(HelloSundayDEMO.ttf);
+}
+
+.p {
+    font-family: 'Hello';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 100pt;
+}
+
+@font-face {
+    font-family: "put";
+    src: url(Burgundy.otf);
+}
+
+.p1 {
+    font-family: 'put';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 30pt;
+}
+
+@font-face {
+    font-family: "clearfont";
+    src: url(FuturaHand.ttf);
+}
+
+.ft {
+    font-family: 'clearfont';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 12pt;
+}
